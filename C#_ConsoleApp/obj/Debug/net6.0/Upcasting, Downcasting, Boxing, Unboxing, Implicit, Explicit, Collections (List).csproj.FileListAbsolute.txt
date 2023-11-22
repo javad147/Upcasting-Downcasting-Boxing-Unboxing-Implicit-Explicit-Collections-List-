@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).exe
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).deps.json
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).runtimeconfig.json
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).dll
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).pdb
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).AssemblyInfo.cs
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).dll
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\refint\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).dll
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).pdb
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).genruntimeconfig.cache
+C:\Users\User\Desktop\Upcasting\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\ref\Upcasting, Downcasting, Boxing, Unboxing, Implicit, Explicit, Collections (List).dll

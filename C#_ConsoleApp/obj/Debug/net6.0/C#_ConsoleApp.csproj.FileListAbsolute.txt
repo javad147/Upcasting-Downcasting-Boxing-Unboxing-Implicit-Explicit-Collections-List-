@@ -1,0 +1,14 @@
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\C#_ConsoleApp.exe
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\C#_ConsoleApp.deps.json
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\C#_ConsoleApp.runtimeconfig.json
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\C#_ConsoleApp.dll
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\bin\Debug\net6.0\C#_ConsoleApp.pdb
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.AssemblyInfo.cs
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.dll
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\refint\C#_ConsoleApp.dll
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.pdb
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\C#_ConsoleApp.genruntimeconfig.cache
+C:\Users\Zaur\source\repos\C#_ConsoleApp\C#_ConsoleApp\obj\Debug\net6.0\ref\C#_ConsoleApp.dll
